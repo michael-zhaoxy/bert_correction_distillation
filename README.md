@@ -1,0 +1,2 @@
+# bert_correction_distillation
+使用textbrewer对纠错的bert模型进行蒸馏
